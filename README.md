@@ -16,7 +16,4 @@ The project includes:
 
 The app features a simple form (front-end HTML) that connects to a Node.js backend API, which in turn interacts with MongoDB for storing or retrieving data.
 
----
-
-## 📂 Project Structure
 
